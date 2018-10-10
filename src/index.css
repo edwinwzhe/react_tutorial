@@ -40,6 +40,11 @@ ol, ul {
   background: #ddd;
 }
 
+.bold-button {
+  border-width: medium;
+  font-weight: bold;
+}
+
 .game {
   display: flex;
   flex-direction: row;
